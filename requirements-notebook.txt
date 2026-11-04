@@ -1,0 +1,5 @@
+# Full pipeline (training notebook). Includes the dashboard requirements.
+-r requirements.txt
+lightgbm>=4.0
+matplotlib>=3.7
+requests>=2.31

@@ -1,0 +1,10 @@
+split,model,MAE,RMSE,WAPE,coverage_80
+validation (Oct 2024),same hour yesterday,38.598,65.042,0.240,
+validation (Oct 2024),same hour last week,27.384,43.986,0.170,
+validation (Oct 2024),hour-of-week mean,25.935,40.978,0.161,
+validation (Oct 2024),LightGBM v1,20.228,31.973,0.126,0.813
+test (Nov-Dec 2024),same hour yesterday,40.093,65.102,0.257,
+test (Nov-Dec 2024),same hour last week,41.815,69.909,0.268,
+test (Nov-Dec 2024),hour-of-week mean,38.851,60.160,0.249,
+test (Nov-Dec 2024),LightGBM v1 (2024 only),27.431,43.094,0.176,0.711
+test (Nov-Dec 2024),LightGBM v2 (2023+2024),22.958,36.550,0.147,0.773

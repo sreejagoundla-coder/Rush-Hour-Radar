@@ -1,0 +1,25 @@
+# model files and large intermediates (rebuilt by the notebook)
+lgbm_*.txt
+features_*.parquet
+demand*.parquet
+val_predictions.parquet
+backtest_preds.parquet
+weather_hourly.parquet
+# only the dashboard export is committed
+*.parquet
+!data/dashboard_predictions.parquet
+
+# python / notebooks
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.vscode/
