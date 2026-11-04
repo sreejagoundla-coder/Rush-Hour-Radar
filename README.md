@@ -5,6 +5,10 @@ and an interactive **Streamlit dashboard** to explore the forecasts.
 Built on NYC TLC trip data (2023 and 2024, about 350,000 zone-hours) with LightGBM.
 
 
+<img width="1908" height="972" alt="image" src="https://github.com/user-attachments/assets/dca43bcf-c596-455d-8475-2b08f80361c9" />
+
+
+
    **Live demo:** https://rush-hour-radar-gs.streamlit.app/
 
 
