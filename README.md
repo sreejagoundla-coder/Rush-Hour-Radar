@@ -4,11 +4,9 @@ Forecasts **hourly yellow-taxi pickups for the 20 busiest NYC zones, a day ahead
 and an interactive **Streamlit dashboard** to explore the forecasts.
 Built on NYC TLC trip data (2023 and 2024, about 350,000 zone-hours) with LightGBM.
 
-**Live demo:** <!-- TODO: paste your Streamlit Cloud URL here -->
 
-<!-- TODO: add a dashboard screenshot: figures/dashboard.png, then uncomment
-![Dashboard](figures/dashboard.png)
--->
+   **Live demo:** https://rush-hour-radar-gs.streamlit.app/
+
 
 ![Pipeline overview](figures/pipeline.png)
 
